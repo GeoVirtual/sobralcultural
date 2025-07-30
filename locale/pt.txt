@@ -1,0 +1,16 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_50980AF5_5C86_0D7C_41A2_C9C0C116DBFE.label = Foto 360 - Praça Coluna da Hora - 70m
+panorama_574E11D5_5C86_1FBC_41D1_43EDB269C6C7.label = Foto 360 Praca do Patrocinio - 70m
+panorama_574B7831_5C86_0CF4_41D5_F36EF56CCB1D.label = Foto 360 Praça Se - 70m
+panorama_574B3EA5_5C86_059C_41C2_5997FD34A293.label = Foto 360 Sao Joao - 70m
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sobral Vista de Cima
