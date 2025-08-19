@@ -36,12 +36,3 @@ htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left
 
 ### Title
 tour.name = Sobral Cultural
-
-## VR Menu
-
-### Text
-Menu_D414FE48_C384_EF3F_41AA_1B6A6AB82338.label = Media
-MenuItem_D4103E5D_C384_EFD1_41E1_DAF88D310AF8.label = Praca do Patrocinio
-MenuItem_D4104E5D_C384_EFD1_41C3_702A1EAEA718.label = Praça São João
-MenuItem_D4139E5D_C384_EFD1_41D6_590F0CB2BA86.label = Praça da Coluna da Hora
-MenuItem_D4107E5D_C384_EFD1_41DF_A888228084A9.label = Praça da Sé
