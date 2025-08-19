@@ -1,0 +1,38 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_AC958104_B43B_C939_41DC_5A4F7CF105C7.source = https://portal.iteleport.com.br/tour/theatro-sao-joao/fullscreen
+LinkBehaviour_A003C5C5_B428_C93B_41E3_85001034A9A8.source = https://www.google.com/maps/place/Banco+do+Nordeste/@-3.6900149,-40.3509165,3a,75y,42.03h,102.22t/data=!3m7!1e1!3m5!1sXIgedtAbgV7fqYzAeri_DA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D-12.216865163932653%2526panoid%253DXIgedtAbgV7fqYzAeri_DA%2526yaw%253D42.03436085208782!7i13312!8i6656!4m17!1m10!3m9!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!2sBanco+do+Nordeste!8m2!3d-3.689918!4d-40.3508835!10e5!14m1!1BCgIYEw!16s%252Fg%252F1ttywz7l!3m5!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!8m2!3d-3.689918!4d-40.3508835!16s%252Fg%252F1ttywz7l?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%253D%253D
+LinkBehaviour_A16C3011_B428_C75B_41BF_EAA92EEC664D.source = https://www.google.com/maps/place/Banco+do+Nordeste/@-3.6900149,-40.3509165,3a,75y,42.03h,102.22t/data=!3m7!1e1!3m5!1sXIgedtAbgV7fqYzAeri_DA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D-12.216865163932653%2526panoid%253DXIgedtAbgV7fqYzAeri_DA%2526yaw%253D42.03436085208782!7i13312!8i6656!4m17!1m10!3m9!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!2sBanco+do+Nordeste!8m2!3d-3.689918!4d-40.3508835!10e5!14m1!1BCgIYEw!16s%252Fg%252F1ttywz7l!3m5!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!8m2!3d-3.689918!4d-40.3508835!16s%252Fg%252F1ttywz7l?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%253D%253D
+LinkBehaviour_A3D12FA0_B42B_B979_41D1_DCE933840540.source = https://www.google.com/maps/place/Banco+do+Nordeste/@-3.6900149,-40.3509165,3a,75y,42.03h,102.22t/data=!3m7!1e1!3m5!1sXIgedtAbgV7fqYzAeri_DA!2e0!6shttps:%252F%252Fstreetviewpixels-pa.googleapis.com%252Fv1%252Fthumbnail%253Fcb_client%253Dmaps_sv.tactile%2526w%253D900%2526h%253D600%2526pitch%253D-12.216865163932653%2526panoid%253DXIgedtAbgV7fqYzAeri_DA%2526yaw%253D42.03436085208782!7i13312!8i6656!4m17!1m10!3m9!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!2sBanco+do+Nordeste!8m2!3d-3.689918!4d-40.3508835!10e5!14m1!1BCgIYEw!16s%252Fg%252F1ttywz7l!3m5!1s0x7eac6e217b227bb:0xeb3d8b7721dc9559!8m2!3d-3.689918!4d-40.3508835!16s%252Fg%252F1ttywz7l?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%253D%253D
+
+## Media
+
+### Audio
+audiores_A7846658_B468_4BC9_41E3_13169E4A88FF.mp3Url = media/audio_A38BB622_B467_CB79_41D3_B1ED2B84D9C3_pt.mp3
+
+### Audio Subtitles
+
+### Title
+photo_A6CFB8DE_B428_78C8_41DE_966336D7551E.label = Estátua de Belchior
+album_A6CA3A92_B428_7B59_419C_5CB8AABA4738_0.label = Estátua de Belchior
+panorama_6E56B44C_62ED_0EB4_41D1_912BDC84EA27.label = Praca do Patrocinio
+panorama_6E5B41D6_62ED_0954_41C2_12409CD5BCB4.label = Praça São João
+panorama_6CF0258E_62ED_09B4_41D1_04791680DC7A.label = Praça da Coluna da Hora
+panorama_6E5B1B32_62ED_1AEC_41C7_ED95ED54593D.label = Praça da Sé
+album_A6CA3A92_B428_7B59_419C_5CB8AABA4738.label = Álbum de Fotos Estátua de Belchior
+album_A5C8051A_B438_4949_41C7_D9A07F92A0AC.label = Álbum de Fotos Estátua de Belchior
+
+## Popup
+
+### Body
+htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:1.8518518518518516vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.85vmin;"><B><I>A estátua de Belchior em tamanho real, localizada na Praça da Câmara, em Sobral, foi inaugurada em novembro de 2019, poucos dias antes do que seria o 73º aniversário do cantor,. A obra, em bronze, é do artista plástico Murilo Sá, e retrata Belchior tocando violão. </I></B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sobral Cultural
