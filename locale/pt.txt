@@ -16,9 +16,8 @@ audiores_A7846658_B468_4BC9_41E3_13169E4A88FF.mp3Url = media/audio_A38BB622_B467
 ### Audio Subtitles
 
 ### Title
-album_A5C8051A_B438_4949_41C7_D9A07F92A0AC_0.label = Estátua de Belchior
-album_A6CA3A92_B428_7B59_419C_5CB8AABA4738_0.label = Estátua de Belchior
 photo_A6CFB8DE_B428_78C8_41DE_966336D7551E.label = Estátua de Belchior
+album_A6CA3A92_B428_7B59_419C_5CB8AABA4738_0.label = Estátua de Belchior
 panorama_6E56B44C_62ED_0EB4_41D1_912BDC84EA27.label = Praca do Patrocinio
 panorama_6E5B41D6_62ED_0954_41C2_12409CD5BCB4.label = Praça São João
 panorama_6CF0258E_62ED_09B4_41D1_04791680DC7A.label = Praça da Coluna da Hora
@@ -29,11 +28,20 @@ album_A5C8051A_B438_4949_41C7_D9A07F92A0AC.label = Álbum de Fotos Estátua de B
 ## Popup
 
 ### Body
-htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:1.4814814814814814vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-size:1.48vmin;font-family:'Arial, Helvetica, sans-serif';"><B><I>A estátua de Belchior em tamanho real, localizada na Praça da Câmara, em Sobral, foi inaugurada em novembro de 2019, poucos dias antes do que seria o 73º aniversário do cantor,. A obra, em bronze, é do artista plástico Murilo Sá, e retrata Belchior tocando violão. </I></B></SPAN></DIV></BODY></HTML></div>
+htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:1.8518518518518516vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.85vmin;"><B><I>A estátua de Belchior em tamanho real, localizada na Praça da Câmara, em Sobral, foi inaugurada em novembro de 2019, poucos dias antes do que seria o 73º aniversário do cantor,. A obra, em bronze, é do artista plástico Murilo Sá, e retrata Belchior tocando violão. </I></B></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Sobral
+tour.name = Sobral Cultural
+
+## VR Menu
+
+### Text
+Menu_D414FE48_C384_EF3F_41AA_1B6A6AB82338.label = Media
+MenuItem_D4103E5D_C384_EFD1_41E1_DAF88D310AF8.label = Praca do Patrocinio
+MenuItem_D4104E5D_C384_EFD1_41C3_702A1EAEA718.label = Praça São João
+MenuItem_D4139E5D_C384_EFD1_41D6_590F0CB2BA86.label = Praça da Coluna da Hora
+MenuItem_D4107E5D_C384_EFD1_41DF_A888228084A9.label = Praça da Sé
