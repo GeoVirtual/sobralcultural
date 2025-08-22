@@ -28,7 +28,7 @@ album_A5C8051A_B438_4949_41C7_D9A07F92A0AC.label = Álbum de Fotos Estátua de B
 ## Popup
 
 ### Body
-htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:1.8518518518518516vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.85vmin;"><B><I>A estátua de Belchior em tamanho real, localizada na Praça da Câmara, em Sobral, foi inaugurada em novembro de 2019, poucos dias antes do que seria o 73º aniversário do cantor,. A obra, em bronze, é do artista plástico Murilo Sá, e retrata Belchior tocando violão. </I></B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_A18E18CE_B428_58C9_41C0_AC9CF3720665.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:1.8518518518518516vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="font-size:1.85vmin;"><B><I>A estátua de Belchior em tamanho real, localizada na Praça São João, em Sobral, foi inaugurada em novembro de 2019, poucos dias antes do que seria o 73º aniversário do cantor,. A obra, em bronze, é do artista plástico Murilo Sá, e retrata Belchior tocando violão. </I></B></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
